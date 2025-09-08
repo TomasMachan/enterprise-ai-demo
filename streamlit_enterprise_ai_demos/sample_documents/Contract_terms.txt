@@ -1,0 +1,6 @@
+Master Service Agreement – Key Terms (2025)
+1) Payment terms: Net 30 days from invoice date.
+2) SLA: 99.9% monthly uptime; service credits apply above 43.2 minutes of monthly downtime.
+3) Data processing: Compliance with GDPR; DPA annex attached.
+4) Termination: Either party may terminate with 60 days' notice for convenience.
+5) Liability cap: Limited to 12 months of fees paid under the agreement.
