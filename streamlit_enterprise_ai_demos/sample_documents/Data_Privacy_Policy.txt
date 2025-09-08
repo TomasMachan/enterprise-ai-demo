@@ -1,0 +1,6 @@
+Data Privacy Policy – Finance Division (2025)
+1) Collection: We collect personal and financial information for loan processing.
+2) Storage: Data is encrypted at rest and in transit.
+3) Retention: Records are retained for 10 years after loan closure.
+4) Access: Customers may request a copy of their data within 30 days.
+5) Sharing: Information is not shared with third parties without explicit consent.
