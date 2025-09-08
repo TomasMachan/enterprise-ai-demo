@@ -1,6 +1,0 @@
-Cloud Service Agreement (CSA) – Excerpt (2025)
-1) Services: Access to compute, storage, and networking resources.
-2) SLA: 99.95% monthly uptime commitment, with service credits for downtime.
-3) Data Location: Customer data stored in EU data centers only.
-4) Security: Multi-factor authentication and quarterly penetration testing.
-5) Governing Law: Agreement subject to the laws of the Netherlands.
