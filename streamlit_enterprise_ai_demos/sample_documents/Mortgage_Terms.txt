@@ -1,0 +1,6 @@
+Standard Mortgage Loan Terms (2025)
+1) Loan Amount: Principal equal to 80% of the property value.
+2) Interest Rate: Fixed at 5.2% annually for the first 5 years, variable thereafter.
+3) Repayment: Monthly installments including interest and principal.
+4) Prepayment: Allowed after 24 months with no penalty.
+5) Late Payment: Fee of 0.5% of the overdue amount per month.
